@@ -7,7 +7,7 @@ public class red {
 		
 		for(int a=0; a<=10; a++)
 		{
-			System.out.println("saad" + a);
+			System.out.println("pro" + a);
 			
 		}
 
